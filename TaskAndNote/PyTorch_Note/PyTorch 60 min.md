@@ -46,7 +46,7 @@ Device tensor is stored on: cpu       # 存储设备
 有超过100种张量相关的运算操作, 例如转置、索引、切片、数学运算、线性代数、随机采样等。更多的运算可以在这里[查看](https://pytorch.org/docs/stable/torch.html)。
 
 所有这些运算都可以在GPU上运行(相对于CPU来说可以达到更高的运算速度)。如果你使用的是Google的Colab环境, 可以通过 Edit > Notebook Settings 来分配一个GPU使用。  
-1.张量的索引和切片
+1. 张量的索引和切片
 ```python
 tensor = torch.ones(4, 4)
 tensor[:,1] = 0            # 将第1列(从0开始)的数据全部赋值为0
@@ -59,13 +59,15 @@ tensor([[1., 0., 1., 1.],
         [1., 0., 1., 1.],
         [1., 0., 1., 1.]])
 ```
-2.张量的拼接
+2. 张量的拼接
 ```python
 t1 = torch.cat([tensor, tensor, tensor], dim=1)
 print(t1)
 ```
-dispaly:
-![image](https://user-images.githubusercontent.com/68489038/153022116-b81a849f-0c88-4352-8081-bd93dc47c085.png)
+dispaly:  
+
+![image](https://user-images.githubusercontent.com/68489038/153022116-b81a849f-0c88-4352-8081-bd93dc47c085.png)  
+
 3. 张量的乘积和矩阵乘法
 4. [自动赋值运算](https://pytorch.apachecn.org/#/docs/1.7/03)
 ##torch.autograd的简要介绍  
