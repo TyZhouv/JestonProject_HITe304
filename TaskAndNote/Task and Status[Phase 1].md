@@ -32,22 +32,39 @@
 ***
 
 
-> Data: February 11th
+> Data: February 10th
 >> Task:Use PyTorch Create an ONNX model  
 >> Status:
 >>> **Work:**  
 ***
 
 
-> Data: February 12th
+> Data: February 11th
 >> Task:Use PyTorch Create an ONNX model  
 >> Status:
 >>> **Work:**
 ***
 
 
-> Data: February 13th
->> Task:Use PyTorch Create an ONNX model  
+> Data: February 12th
+>> Task:
 >> Status:
 >>> **Work:**
+***
+
+
+> Data: February 13th
+>> Task:
+>> Status:
+>>> **Work:**
+***
+
+
+> Data: February 14th
+>> Task:
+>> Status:
+>>> **Work:**
+***
+
+
 
