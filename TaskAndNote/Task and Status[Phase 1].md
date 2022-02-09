@@ -25,10 +25,10 @@ Status: Running
 ```python
 Data: February 09th
 Task:Finished all flow mentioned in 8th's 4.
-Status:
+Status:Delaying
 ```
 **Work:**  
-1.  
+1.  09th Learning the ConvNN and PyTorchNN Page
 2.  
 3.  
 ***
