@@ -27,34 +27,28 @@
 >> Status:Delaying  
 >>> **Work:**  
 >>>1.  09th Learning the ConvNN and PyTorchNN Page  
->>>2.  
->>>3.  
 ***
 
 
 > Data: February 10th
->> Task:Use PyTorch Create an ONNX model  
+>> Task:PyTorch Create ConvNN  
 >> Status:
 >>> **Work:**  
 ***
 
 
 > Data: February 11th
->> Task:Use PyTorch Create an ONNX model  
->> Status:
->>> **Work:**
+>> Task:None(absent)
 ***
 
 
 > Data: February 12th
->> Task:
->> Status:
->>> **Work:**
+>> Task:None(absent)
 ***
 
 
 > Data: February 13th
->> Task:
+>> Task:Create .pth model And TansferO it toNNX.model
 >> Status:
 >>> **Work:**
 ***
