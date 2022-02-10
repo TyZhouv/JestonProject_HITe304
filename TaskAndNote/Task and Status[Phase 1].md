@@ -32,7 +32,7 @@
 
 > Data: February 10th
 >> Task:PyTorch Create ConvNN  
->> Status:
+>> Status:delaying
 >>> **Work:**  
 ***
 
