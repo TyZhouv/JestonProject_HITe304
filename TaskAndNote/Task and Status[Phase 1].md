@@ -30,35 +30,27 @@
 ***
 
 
-> Data: February 10th
->> Task:PyTorch Create ConvNN  
->> Status:delaying
->>> **Work:**  
-***
+|2022 Feb| 21th | 22th | 22th | 23th | 24th | 25th | 26th |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|Task|1.Prepare Materials<br>2.Making Plan<br>3.Update Plan|1.Prepare Materials <br> 2.Create .pth model|1.Transfer .pyh model to ONNX model|||||
+|Status|Done|||||||
+|Note||
 
-
-> Data: February 11th
->> Task:None(absent)
-***
-
-
-> Data: February 12th
->> Task:None(absent)
-***
-
-
-> Data: February 13th
->> Task:Create .pth model And TansferO it toNNX.model
->> Status:
->>> **Work:**
-***
-
-
-> Data: February 14th
->> Task:
->> Status:
->>> **Work:**
-***
-
-
-
+<table><tbody>
+    <tr>
+        <th rowspan="3">Occupy 3 rospan </th>
+        <th> 2022 Feb </th>
+        <th> 27th </th>
+        <th> 28th </th>
+    </tr>
+    <tr>
+        <td> Task </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td> Status </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+</table>  
