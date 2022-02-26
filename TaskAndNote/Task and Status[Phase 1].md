@@ -2,18 +2,17 @@
 ## February
 
 ***
-> <font color=yellow>Data: February 07th</font>
+> <font color=yellow>Data: February 1th Week</font>
 >> Task:Create User's Dataset  
->> Status:Finished
+>> Status:Done
 >>> **Work:**  
 >>> 1. For details, u cann see tx2wiki_JoJoProject.txt under /home/nvidia/文档
 ***
 
-
-> Data: February 08th
+> Data: February 2th Week
 >> Task:learn the ONNX model  
 >> Aim: transfer the newest model which havent been supported by jeston to ONNX model  
->> Status: Running
+>> Status: Done
 >>> **Work:**  
 >>>1. how to Create an ONNX model： use PyTorch create an ONNX model
 >>>2. Start to learn [PyTorch](https://pytorch.apachecn.org/#/docs/1.7/04)
@@ -21,36 +20,16 @@
 >>>4.With [PyTorch Tutorial](https://pytorch.apachecn.org/#/docs/1.7/06) and above weblinks , we have konwn that PyTorch can Create .pth models and transfer .pth models to ONNX models.Therefore , we can  **customize the neural network model** and then transform it into ONNX model.  
 ***
 
-
-> Data: February 09th
+> Data: February 3th Week
 >> Task:Finished all flow mentioned in 8th's 4.  
->> Status:Delaying  
+>> Status:Done  
 >>> **Work:**  
 >>>1.  09th Learning the ConvNN and PyTorchNN Page  
 ***
 
-
-|2022 Feb| 21th | 22th | 22th | 23th | 24th | 25th | 26th |
+|2022 Feb| 21th | 22th | 23th | 24th | 25th | 26th | 27th |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|Task|1.Prepare Materials<br>2.Making Plan<br>3.Update Plan|1.Prepare Materials <br> 2.Create .pth model|1.Transfer .pyh model to ONNX model|||||
-|Status|Done|||||||
-|Note||
+|Task|1.Prepare Materials<br>2.Making Plan<br>3.Update Plan||||1.Prepare Materials <br> 2.Create .pth model|1.Transfer .pyh model to ONNX model|||
+|Status|Done|Delaying|Delaying|Delaying|Done|Done|Done|
+|Note||isolated|isolated|isolated|isolated|isolated|||
 
-<table><tbody>
-    <tr>
-        <th rowspan="3">Occupy 3 rospan </th>
-        <th> 2022 Feb </th>
-        <th> 27th </th>
-        <th> 28th </th>
-    </tr>
-    <tr>
-        <td> Task </td>
-        <td> </td>
-        <td> </td>
-    </tr>
-    <tr>
-        <td> Status </td>
-        <td> </td>
-        <td> </td>
-    </tr>
-</table>  
